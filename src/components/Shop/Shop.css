@@ -1,0 +1,12 @@
+.shop{
+    display: flex          
+}
+.products{
+    width: 70%;
+    padding: 20px;
+    border-right: 1px solid gray;
+}
+.shoping-cart{
+    padding: 20px;
+    width: 30%;
+}

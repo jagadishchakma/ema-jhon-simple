@@ -1,0 +1,25 @@
+.product{
+     display: flex;
+     border-bottom: 1px solid orange;
+}
+.product div{
+    padding: 10px 20px;
+}
+.p-name{
+    color: blue;
+}
+.add-to-cart{
+    padding: 10px 20px;
+    background-color: orange;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: green
+}
+.add-to-cart:hover{
+    background-color: olive;
+    cursor: pointer;
+}
+.icon{
+    color:green;
+}

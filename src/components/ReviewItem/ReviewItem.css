@@ -1,0 +1,25 @@
+.review-item{
+          padding: 20px;
+          border: 1px solid gray;
+          display: flex;
+}
+.remove{
+          padding: 10px 20px;
+          background-color: orange;
+          color: white;
+          font-size: 20px;
+          border: none;
+          border-radius: 5px;
+          cursor: pointer;
+}
+.remove:hover{
+          background-color: olive;
+          color: red;
+          transition: 1s;
+}
+.review-item .image{
+          padding: 20px;
+}
+.review-item .info{
+          padding: 15px;
+}

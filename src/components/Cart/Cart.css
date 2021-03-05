@@ -1,0 +1,42 @@
+
+.shopping-bag{
+    text-align: center;
+    color: black;
+    border: 1px solid gray;
+}
+.bag{
+    position: relative;
+}
+.bag .products-count{
+    position: absolute;
+    color: red;
+    font-weight: bold;
+    top: 2px;
+    right: -8px;
+    font-size: 12px;
+    background-color: lightblue;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    padding: 2px;
+}
+
+.review-order{
+    padding: 10px 20px;
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    text-align: center;
+    width: 200px;
+    margin: auto;
+    display: block;
+}
+a{
+    text-decoration: none;
+}
+.review-order:hover{
+    cursor: pointer;
+    background-color: olive;
+}

@@ -1,0 +1,11 @@
+.cart-container{
+          display: flex;
+}
+.order-product{
+          width: 70%;
+          margin: 20px;
+}
+.order-summary{
+          width: 30%;
+          padding: 20px;
+}
